@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mystery-upBy.aternos.me",
+    "ip": "Mystery-upBy.aternos.me:17358",
     "port":17358,
     "version": "",
     "try-creative": false
